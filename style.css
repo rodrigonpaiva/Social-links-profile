@@ -69,7 +69,6 @@ body {
 main{
     background: var(--gray-800);
     max-height: 51rem;
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
