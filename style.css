@@ -140,6 +140,7 @@ main{
     background: var(--gray-700);
     border: none;
     color: var(--white-color);
+    text-decoration: none;
 }
 
 .social-media ul li a:hover{
